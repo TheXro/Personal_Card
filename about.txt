@@ -1,4 +1,0 @@
-Hello
-My name is Ravi Yadav 
-A first year engineering student 
-I'm currently learning WebDevelopment 
