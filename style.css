@@ -2,6 +2,12 @@ body{
     background: rgb(139, 95, 95);
     background-size: cover;
 }
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
 div.op1{
     border: 5px solid transparent;
     background: linear-gradient(146deg,rgb(17, 67, 106), rgb(59, 82, 212)) padding-box,
